@@ -1,0 +1,6 @@
+.terraform*
+*.tfstate*
+*.lock*
+
+!.terraform-version
+.DS_Store
